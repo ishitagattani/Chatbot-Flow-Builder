@@ -1,0 +1,15 @@
+.draggable-text-node {
+  height: 70px;
+  width: 200px;
+  padding: 2px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  border-radius: 7px;
+}
+
+.draggable-text-node .message-icon {
+  text-align: center;
+}

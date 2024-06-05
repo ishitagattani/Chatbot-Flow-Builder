@@ -1,0 +1,19 @@
+.send-message {
+  box-shadow: 2px 2px 4px #000000;
+  border-radius: 10px;
+}
+.send-message-header {
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  background: #41c7ac;
+  padding: 2px 5px;
+  width: 200px;
+  border-radius: 10px 10px 0 0;
+}
+.send-message-label {
+  padding: 5px;
+  text-align: center;
+}
