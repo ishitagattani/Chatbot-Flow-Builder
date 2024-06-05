@@ -3,7 +3,6 @@ import {
   AppShell,
   Header,
   Aside,
-  Text,
   MediaQuery,
   useMantineTheme,
 } from "@mantine/core";
